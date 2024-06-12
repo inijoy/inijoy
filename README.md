@@ -70,7 +70,7 @@ Open Source Contributions: Starting with and contributing to open-source project
 Documentation and Reporting: Creating documentation and preparing reports for data projects.
 Career Advice and Mentorship: Tips for a career in data analysis and professional development.
 
-- 📫 How to reach me: https://www.linkedin.com/in/iniabasi-okorie-14720088/
+- 📫 How to reach me:[here](https://www.linkedin.com/in/iniabasi-okorie-14720088/)
 - 😄 Pronouns: 
 - ⚡ Fun fact: Multilingual Data: I love working with datasets from different languages and cultures. It’s like solving a puzzle with a global twist!
 Visualization Enthusiast: I once created a visualization of my entire music listening history over the past decade using Spotify data.

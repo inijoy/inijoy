@@ -1,9 +1,8 @@
-## Hi there 👋
+
 
 This is Iniabasi Ntiah
 I am a Buisness And Marketing Data Analyist/ESL Teacher
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Cleaning and Preprocessing:
 Developing automated scripts to clean and preprocess large datasets.

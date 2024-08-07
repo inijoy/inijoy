@@ -1,6 +1,6 @@
 
 
-This is Iniabasi (Ntiah) Okorie
+This is Iniabasi  Okorie
 I am a Buisness And Marketing Data Analyist/ESL Teacher
 
 

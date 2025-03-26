@@ -46,8 +46,8 @@ Welcome to my GitHub portfolio! I'm a **Cloud FinOps Analyst and Data Analyst** 
 ---
 
 ## 📫 Connect With Me
-💼 **LinkedIn**: [LinkedIn Profile]  
-💻 **GitHub**: [GitHub Profile]  
+💼 **LinkedIn**: [www.linkedin.com/in/iniabasi-okorie]  
+💻 **GitHub**: [https://github.com/inijoy]  
 📧 **Email**: inijoy1@gmail.com  
 
 ---

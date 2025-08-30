@@ -23,17 +23,28 @@ Welcome to my GitHub portfolio! I’m Iniabasi — a DevOps & Cloud Engineer pas
 ---
 
 ## 📌 Featured Projects
-🔹 **Cloud Cost Optimization Dashboard** – Designed a **Power BI dashboard** to track and visualize cloud expenditures across multiple business units.  
-🔹Server Hardening & Golden AMI Project
- – Secured a remote server, changed the default SSH port, applied patches, and created an AMI as a golden image.
 
-☁️ Cloud Cost Optimization Dashboard
- – Designed a monitoring dashboard for cloud resource cost savings.
+### 🌐 Hosting a Static Portfolio  
+Deployed and hosted a personal static website portfolio on the cloud, leveraging secure and scalable infrastructure.  
+🔗  [Read on Notion](https://github.com/inijoy/Hosting-a-Static-Portfolio-)  | [Read on Notion](https://butter-iris-8b9.notion.site/Hosting-a-Static-Portfolio-24f5c4233bb680af9d1de8d10fded01d)
 
-⚙️ CI/CD Pipeline Setup
- – Automated build & deployment pipeline with GitHub Actions and Docker..  
+---
 
-👉 **Explore my projects:** [GitHub Repository Links]
+### 🎬 Netflix Clone CI/CD with Monitoring  
+Implemented a CI/CD pipeline for a Netflix clone application using **Jenkins, Docker, Kubernetes**, and integrated monitoring with **Prometheus & Grafana**. Incorporated **DevSecOps practices** to ensure security across the pipeline.  
+🔗 [View Project](https://github.com/inijoy/Netflix-Clone-CICD-Project1) | [Read on Notion](https://butter-iris-8b9.notion.site/Netflix-Clone-CI-CD-with-Monitoring-Jenkins-Docker-Kubernetes-Prometheus-Grafana-DevSec-25b5c4233bb680b7bc3bd04116329294)
+
+---
+
+### 🐧 Linux User and Group Management & Essential Commands  
+Hands-on project covering the creation and management of users/groups, file permissions, and essential Linux system administration commands.  
+🔗 [View Project](https://github.com/inijoy/Linux-User-and-Group-Management-Essential-Commands-for-System-Administration) | [Read on Notion](https://butter-iris-8b9.notion.site/Linux-User-and-Group-Management-Essential-Commands-for-System-Administration-2565c4233bb6801baa3fd151cca46d95)
+
+---
+
+### 🏥 Capstone Project: HIPAA Deployment to Azure  
+Designed and deployed a HIPAA-compliant cloud environment on **Azure**, incorporating security, compliance, and automation for healthcare data protection.  
+🔗 [View Project](#) | [Read on Notion](https://butter-iris-8b9.notion.site/My-Capstone-Project-HIPAA-Deployment-To-Azure-19f5c4233bb6806987cbd5f490868722)
 
 ---
 

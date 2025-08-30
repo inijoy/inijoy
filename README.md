@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! I’m Iniabasi — a DevOps & Cloud Engineer pas
 
 ### 🌐 Hosting a Static Portfolio  
 Deployed and hosted a personal static website portfolio on the cloud, leveraging secure and scalable infrastructure.  
-🔗  [Read on Notion](https://github.com/inijoy/Hosting-a-Static-Portfolio-)  | [Read on Notion](https://butter-iris-8b9.notion.site/Hosting-a-Static-Portfolio-24f5c4233bb680af9d1de8d10fded01d)
+🔗  [View Project](https://github.com/inijoy/Hosting-a-Static-Portfolio-)  | [Read on Notion](https://butter-iris-8b9.notion.site/Hosting-a-Static-Portfolio-24f5c4233bb680af9d1de8d10fded01d)
 
 ---
 

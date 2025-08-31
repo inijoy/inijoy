@@ -44,7 +44,7 @@ Hands-on project covering the creation and management of users/groups, file perm
 
 ### 🏥 Capstone Project: HIPAA Deployment to Azure  
 Designed and deployed a HIPAA-compliant cloud environment on **Azure**, incorporating security, compliance, and automation for healthcare data protection.  
-🔗  | [Read on Notion](https://butter-iris-8b9.notion.site/My-Capstone-Project-HIPAA-Deployment-To-Azure-19f5c4233bb6806987cbd5f490868722)
+🔗   [View Project](https://github.com/inijoy/-My-Capstone-Project-HIPAA-Deployment-To-Azure-)  | [Read on Notion](https://butter-iris-8b9.notion.site/My-Capstone-Project-HIPAA-Deployment-To-Azure-19f5c4233bb6806987cbd5f490868722)
 
 ---
 
